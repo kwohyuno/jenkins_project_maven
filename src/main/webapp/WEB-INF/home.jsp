@@ -25,7 +25,7 @@
 <br><h5>자동 배포 성공했나요?</h5>
 <br><h5>왜 안되나?</h5>
 <div>
-	<textarea style="width: 100%;height:120px;" class="form-control">프로젝트 진행 잘되가고 있어요?</textarea>
+	<textarea style="width: 100%;height:120px;" id="msg" class="form-control">프로젝트 진행 잘되가고 있어요?</textarea>
 </div>
 <div class="input-group" style="width: 250px; margin-left: 50px; margin-top: 10px;">
    <select id="seltrans" class="form-select">
