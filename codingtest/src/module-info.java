@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hyunohsmacbook
+ *
+ */
+module codingtest {
+}
