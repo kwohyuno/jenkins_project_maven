@@ -21,5 +21,7 @@
 <body>
 <h2><b>Jenkins에 Maven Project 배포 연습</b></h2>
 <h5> 배포 성공했나요? </h5>
+<br><h5>자동 배포 성공했나요?</h5>
+<br><h5>왜 안되나?</h5>
 </body>
 </html>
